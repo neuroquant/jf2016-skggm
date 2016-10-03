@@ -5,7 +5,7 @@ Tutorials to estimate inverse covariance matrices using the skggm package
 ## Instructions
 
 
-- Binder: Follow instructions at [Binder](http://mybinder.org) to access github.com/neuroquant/jf2016-skggm
+- Binder: Follow instructions at [Binder](http://mybinder.org/repo/neuroquant/jf2016-skggm) to access github.com/neuroquant/jf2016-skggm
 
 - Local Anaconda Environment:
 
