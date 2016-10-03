@@ -4,7 +4,8 @@ USER root
 
 # Add dependency
 RUN apt-get update
-RUN conda remove libgfortran
+#RUN conda remove libgfortran
+RUN conda update libgfortran --force
 RUN conda install libgcc --force
 # RUN apt-get install -y libblas3gf libblas-doc libblas-dev liblapack3gf liblapack-doc liblapack-dev
 
