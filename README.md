@@ -2,6 +2,8 @@
 
 Tutorials to estimate inverse covariance matrices using the skggm package
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/neuroquant/jf2016-skggm)
+
 ## Instructions
 
 
