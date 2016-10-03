@@ -13,3 +13,7 @@ Tutorials to estimate inverse covariance matrices using the skggm package
 pip install skggm
 git clone git@github.com:neuroquant/jf2016-skggm
 ```
+
+Known issue with Anaconda 2 (Binder) and liblapack:
+
+https://github.com/ContinuumIO/anaconda-issues/issues/686
