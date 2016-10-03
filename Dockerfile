@@ -7,7 +7,7 @@ RUN apt-get update
 #RUN conda remove libgfortran
 RUN conda update libgfortran --force
 RUN conda install libgcc --force
-# RUN apt-get install -y libblas3gf libblas-doc libblas-dev liblapack3gf liblapack-doc liblapack-dev
+RUN apt-get install -y libblas3gf libblas-doc libblas-dev liblapack3gf liblapack-doc liblapack-dev
 
 # Environment variable try to fix lapack issue
 ENV LD_PRELOAD /usr/lib/x86_64-linux-gnu/libgfortran.so.3
