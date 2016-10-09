@@ -1,2 +1,2 @@
 
-[Banded Network Example](Banded\ Network\ Simulation.html)
+[Simulated Network Example](Simulated\ Network\ Example.html)
