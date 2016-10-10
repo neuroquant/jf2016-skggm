@@ -1,6 +1,7 @@
 # jf2016-skggm
 
-Tutorials to estimate inverse covariance matrices using the skggm package
+Tutorials to estimate inverse covariance matrices using the skggm package. 
+Presented at a machine learning Junior Scientist Workshop 2016, HHMI, Janelia Farms. 
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/neuroquant/jf2016-skggm)
 
